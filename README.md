@@ -4,6 +4,5 @@
 Para rodar esse projeto na sa maquina , por favor digite:
 
 ```
-jupiter
-pythhon
+node app.js
 ```
